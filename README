@@ -1,0 +1,12 @@
+grouponScraper.py takes a snapshot of current groupon deals and stores
+the data in tab-separated format
+the fields scraped include:
+    deal location
+    deal title
+    groupon price
+    groupon value
+    total quantity sold
+    deal url
+
+to run: python grouponScraper.py <filename>
+the default filename is grouponData.tsv
