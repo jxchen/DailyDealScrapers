@@ -1,5 +1,6 @@
 2011-06-03 12:47:49.907123
-location	title	price	value	numBought	urlnew-orleans	$35 for $209 at BCOR Fitness	35	209	191	http://www.groupon.com/deals/bcor-new-orleans?c=all&amp;p=1
+location	title	price	value	numBought	url
+new-orleans	$35 for $209 at BCOR Fitness	35	209	191	http://www.groupon.com/deals/bcor-new-orleans?c=all&amp;p=1
 new-orleans	Cajun Grill and Bar	10	20	42	http://www.groupon.com/deals/cajun-grill-and-bar?c=all&amp;p=1
 new-orleans	Bloomberg Businessweek	19	40	13	http://www.groupon.com/deals/bloomberg-business-week-new-orleans-la?c=all&amp;p=1
 new-orleans	Dr. Pelias Cosmetic Surgery and Lifestyle Center	1199	2400	30	http://www.groupon.com/deals/dr-marilyn-e-pelias?c=all&amp;p=1
