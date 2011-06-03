@@ -10,3 +10,6 @@ the fields scraped include:
 
 to run: python grouponScraper.py <filename>
 the default filename is grouponData.tsv
+
+There is some example data in grouponData.tsv that I collected around 1PM EDT on
+6/3/11.

@@ -96,7 +96,7 @@ def main():
 	else:
 		outFile = open(DEFAULT_FILE_NAME,'w')
 	outFile.write(str(datetime.now()) + '\n')
-	outFile.write('location\ttitle\tprice\tvalue\tnumBought\turl')
+	outFile.write('location\ttitle\tprice\tvalue\tnumBought\turl\n')
 	
 	for loc in locs:
 		dealUrls,dealTitles = extractDealInfo(loc)
